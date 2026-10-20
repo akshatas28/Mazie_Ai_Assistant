@@ -177,7 +177,7 @@ Rather than treating each library separately, the project brings them together i
 
 ## Related Work
 
-I also work on Python, DSA, cloud, automation, and AI systems.
+I also work on Python, DSA, cloud, automation, and AI systems.(Along with multiple enterprise intergration platforms)
 
 * [Advance Python](https://github.com/akshatas28/Advance_Python)
 * [Java Problem Solving](https://github.com/akshatas28/java-problem-solving)
